@@ -1,0 +1,10 @@
+{
+  "name": "dall-e-cli",
+  "version": "0.1.0",
+  "description": "CLI tool to generate images with OpenAI's Images API",
+  "bin": {
+    "dall-e": "./src/cli.js"
+  },
+  "type": "module",
+  "license": "MIT"
+}
