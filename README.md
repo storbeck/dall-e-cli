@@ -2,6 +2,14 @@
 
 Generate images from prompts using OpenAI's Images API.
 
+## Install (npm)
+
+```bash
+npm install -g @storbeck/dall-e
+```
+
+Package: https://www.npmjs.com/package/@storbeck/dall-e
+
 ## Install (local)
 
 ```bash
@@ -12,6 +20,12 @@ npm link
 
 ```bash
 OPENAI_API_KEY=... dall-e -p "a red fox in a snowy forest"
+```
+
+Run without installing:
+
+```bash
+OPENAI_API_KEY=... npx @storbeck/dall-e -p "a red fox in a snowy forest"
 ```
 
 Options:
