@@ -2,6 +2,9 @@
 
 Generate images from prompts using OpenAI's Images API.
 
+![quick_brown_fox_jumps](https://github.com/user-attachments/assets/1d25d98a-6856-4a8d-9175-21b47f15fdee)
+
+
 ## Install (npm)
 
 ```bash
